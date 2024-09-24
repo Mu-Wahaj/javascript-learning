@@ -1,0 +1,16 @@
+#divider {
+    height: 200px;
+    width: 200px;
+    color: white;
+    background-color: blueviolet;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
